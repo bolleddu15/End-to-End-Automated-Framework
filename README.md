@@ -1,2 +1,8 @@
-# ML-Model-deployment
-with both backend and Front end using, we have created a ml model on cancer dataset, which predicts on the chest dataset. 
+# An End-to-End Automated Framework for Data Curation, Feature Engineering, and Explainable Modeling in Big Data Analytics.
+
+What is Data Curation ? 
+
+What is Feature Engineering ? 
+
+How can we Explain Modeling in the field of Big Data Analytics ? 
+
